@@ -243,3 +243,18 @@ margin-bottom: 16px;
 .media{
     margin-right: 20px;
 }
+
+@media screen and (max-width: 576px) {
+    .technology{
+        flex-direction: column;
+        margin: 30px 30px 30px 30px;
+    }
+   .section-p{
+    flex-direction: column;
+    margin: 30px 30px 30px 30px;
+   }
+   .footform{
+    flex-direction: column;
+    margin: 0 auto;
+   }
+}
