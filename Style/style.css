@@ -257,4 +257,30 @@ margin-bottom: 16px;
     flex-direction: column;
     margin: 0 auto;
    }
+ .foot{
+   padding: 20px;
+ }
+ .tech{
+    width: 100%;
+    margin: 0 auto;
+    max-width: 300px;
+ }
+ .abba{
+    flex-direction: column;
+ }
+.header{
+    background-image: none;
+}
+.head-parent{
+    flex-direction: column;
+}
+.hardy{
+    width: 100%;
+}
+nav{
+    flex-direction: column;
+}
+.nav_title{
+    margin: 70px 30px auto;
+}
 }
